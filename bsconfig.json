@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3,
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "suffix": ".bs.js"
+}
